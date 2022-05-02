@@ -1,12 +1,12 @@
 # 01-Code-Refactor-INTRO
 
 ## TABLE OF CONTENTS
-				  * INTRO
-				  * MOTIVATION
-				  * BUILT STATUS
-				  * CODE STYLE
-				  * TECH USED
-				  * FEATURES
+* INTRO
+* MOTIVATION
+* BUILT STATUS
+* CODE STYLE
+* TECH USED
+* FEATURES
 Hey there! This is a training project, we are learning HTML and CSS and how it should be properly done to have all the features work properly.
 I hope this will help you in some way! 
 We have a on the job ticket, and a starter code that we will modify.
