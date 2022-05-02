@@ -39,7 +39,9 @@ search optimizstion link wasnt working
 	  fixed it by adding <div id=" " and class=" "
 							  
 images links were missing an alt attribute
-				added alt=" " to every image link			  
+				added alt=" " to every image link
+*LINK TO THE WEBSITE:
+				  https://anitinky13.github.io/01-Code-Refactor/
 							  
 							  HERES IMAGES OF BEFORE CODE WAS REFACTORED
 
